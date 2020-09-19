@@ -1,0 +1,22 @@
+{
+  "name": "giphygram",
+  "authors": [
+    "gautam00 <gautam.som774@gmail.com>"
+  ],
+  "description": "Personal project for learning riot",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "^4.14.0",
+    "milligram": "^1.4.1"
+  }
+}
